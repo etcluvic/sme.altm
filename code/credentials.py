@@ -1,0 +1,2 @@
+altmetricKey = 'copy key here...'
+

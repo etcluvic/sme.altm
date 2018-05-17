@@ -1,0 +1,8 @@
+pyaltmetric
+bs4
+dicttoxml
+pysolr
+sklearn
+numpy
+scipy
+lxml
